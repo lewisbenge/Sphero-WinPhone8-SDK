@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sphero.WP", "Sphero.WP\Sphero.WP.csproj", "{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotKit", "RobotKit\RobotKit.csproj", "{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|ARM.Build.0 = Debug|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|x86.ActiveCfg = Debug|x86
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|x86.Build.0 = Debug|x86
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Debug|x86.Deploy.0 = Debug|x86
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|ARM.ActiveCfg = Release|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|ARM.Build.0 = Release|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|ARM.Deploy.0 = Release|ARM
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|x86.ActiveCfg = Release|x86
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|x86.Build.0 = Release|x86
+		{E80EC1DB-FF63-435B-B2B0-4CDE500FAB7A}.Release|x86.Deploy.0 = Release|x86
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|ARM.Build.0 = Debug|ARM
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|x86.ActiveCfg = Debug|x86
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Debug|x86.Build.0 = Debug|x86
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|ARM.ActiveCfg = Release|ARM
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|ARM.Build.0 = Release|ARM
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|x86.ActiveCfg = Release|x86
+		{EE3CB78F-B668-47E7-BE73-CD33F1BB3E2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
